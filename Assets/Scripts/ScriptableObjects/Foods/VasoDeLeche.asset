@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a1d3a8a6f9a0c449d66639e70d54c1, type: 3}
+  m_Name: VasoDeLeche
+  m_EditorClassIdentifier: 
+  nameFood: VasoDeLeche
+  imageFood: {fileID: 21300000, guid: aadc22e7fff0fea449970e69ec989aac, type: 3}
+  descriptionFood: "La leche es una fuente importante de calcio y vitamina D, esenciales
+    para la salud \xF3sea y dental. Optar por versiones bajas en grasa o descremadas
+    puede reducir la ingesta de grasas saturadas mientras se obtienen los beneficios
+    nutricionales. "
+  typeFood: 0

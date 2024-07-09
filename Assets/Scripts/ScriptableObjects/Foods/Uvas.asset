@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a1d3a8a6f9a0c449d66639e70d54c1, type: 3}
+  m_Name: Uvas
+  m_EditorClassIdentifier: 
+  nameFood: Uvas
+  imageFood: {fileID: 21300000, guid: 1c1545cbf45d3b048aa711f824f05946, type: 3}
+  descriptionFood: "Las uvas son ricas en antioxidantes, como el resveratrol, que
+    pueden beneficiar la salud cardiovascular. Tambi\xE9n proporcionan fibra y vitaminas
+    C y K, siendo una opci\xF3n saludable como fruta fresca o en ensaladas."
+  typeFood: 0

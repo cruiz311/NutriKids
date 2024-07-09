@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 051821cd78fd5354f95f9fbddfc58333, type: 3}
+  m_Name: Dulces
+  m_EditorClassIdentifier: 
+  nameFood: Dulces
+  imageFood: {fileID: 21300000, guid: 1ddb961ddc0deab428a3ee8904b39f51, type: 3}
+  descriptionFood: "Los dulces, como caramelos y chocolates, suelen ser altos en
+    az\xFAcares a\xF1adidos y calor\xEDas vac\xEDas. Consumir dulces en exceso puede
+    contribuir a problemas de salud como la obesidad, caries dental y desequilibrios
+    en los niveles de az\xFAcar en la sangre."
+  typeFood: 1
